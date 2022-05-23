@@ -29,7 +29,7 @@ Columns:
 ```
 
 ## Aim of project
-This is the final project of Udacity's Data Scientist course. I chose the Spark project over the other options in order to learn more from the course. Extracuricular lessons were also provided on Spark.
+This is the final project of Udacity's Data Scientist course. I chose the Spark project over the other options in order to learn more from the course. Extracuricular lessons were also provided on Spark by Udacity.
 
 ## Procedure
 
