@@ -1,6 +1,8 @@
 # DSND_capstone_Sparkify_2022
 Capstone project for Udacity data scientist course
 
+Please also find the my blogpost on medium on [here](https://medium.com/).
+
 ## Installation
 The code was run on the Udacity workspace. Running the code should also be possible with the Anaconda distribution of Python 3.6 on a computer with pyspark 2.4 and java installed.
  
